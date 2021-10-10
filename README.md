@@ -1,5 +1,15 @@
 <h1 align="center">How's it going? 👋, I'm Christian Niño Arrieta.</h1>
-<h3 align="center">A</h3>
+<h3 align="center">a fledgeling dev aiming for growth and service</h3>
+
+- 🔭 I'm a 4th-year IT Student of MSU-IIT. I'm part of a team currently working on a thesis whose objective is to create a **Filipino Sign Language Learning application.**
+
+- 🌱 Life is a journey of learning and I’m currently looking into **Unity and Data Science from Project SPARTA.**
+
+- 📫 How to reach me **christiannino.arrieta0401@g.msuiit.edu.ph**
+
+- 📄 Know about my experiences [www.linkedin.com/in/christian-n-arrieta](www.linkedin.com/in/christian-n-arrieta)
+
+- ⚡ Fun fact **I have numerous interests and people say I may be a multipotentialite. Sometimes I say yes because agree, sometimes I say yes because I think it sounds really fancy.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
